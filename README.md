@@ -1,7 +1,7 @@
 # Customer segmentation. A retailer case
 *Alberto Abreu & Salvador Rocher*
 
-*Data Analytics, Barcelona August-2019*
+*Data Analytics, Barcelona August 2019*
 
 ## Content
 - [Project Description](#project-description)
