@@ -1,7 +1,7 @@
-# Customer segmentation. Retailer case
+# Customer segmentation. A retailer case
 *Alberto Abreu & Salvador Rocher*
 
-*Data Analytics, Barcelona 18/08/2019*
+*Data Analytics, Barcelona August-2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -22,7 +22,7 @@ For the final project we came back to our Business studies roots, and put on the
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-* Are the current current campaigns of Tailer effective in terms of engaging customers to come more often to the stores and driving revenues up? 
+* Are the current marketing campaigns of Tailer effective in terms of engaging customers to come more often to the stores and driving revenues up? 
 * By how much?
 * Is it possible to come up with ways to improve those Tailer KPIs?
 
@@ -53,7 +53,7 @@ Some data key features:
 
 ## Cleaning
 
-In the data cleaning part we had to take care of all the tables that were going to be used for our analysis, and that involved, renaming and dropping not needed columns, discretizing categorical variables, creating new calculated columns, checking missing values, removing outliers (using an visual exploratory analysis and then z-scores), recategorizating values (as in the case of the departments and subdepartments which was creating a lot of noise).
+In the data cleaning part we had to take care of all the tables that were going to be used for our analysis, and that involved, renaming and dropping not needed columns, discretizing categorical variables, creating new calculated columns, checking missing values, removing outliers (using an visual exploratory analysis and then z-scores), re-categorizating values (as in the case of the departments and subdepartments which was creating a lot of noise).
 
 <a name="analysis"></a>
 
@@ -76,28 +76,31 @@ In particular, the increase in expenditure when carrying out non-customized mk c
 <a name="conclusion"></a>
 
 ## Conclusion
-* We proved most customers are sensitive to mk campaigns.
-* We have identify strategic customer segments based on their purchase behavior.
+
+* We found evidences to state that most customers seem to be sensitive to mk campaigns.
+* We were able to identify strategic customer segments based on their purchase behavior.
 * We can drive revenues up by improving customer response to relevant mk campaigns via targeting and microsegmentation.
 
 <a name="future-work"></a>
 
 ## Future Work
 
-Detect effects of each different marketing campaign.
+- Detecting effects of each individual different marketing campaign (store display, emailing, advertisement...).
+- Carrying over a market basket analysis for the targeting to not only be based at a product category level but at a more specific product level and suggest cross-selling strategies to drive revenues even further up.
 
 <a name="organization"></a>
 
 ## Organization
 
-We used Trello and github. Links can be found in the readme.
+We used Trello and github. Links can be found below.
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/albertoabreu91/final_project/)  
-[Slides](https://slides.com/)  
+[Repository_1](https://github.com/Salvinha-vlc/Customer-segmentation-project)  
+[Repository_2](https://github.com/albertoabreu91/Customer_segmentation_final_project)  
+[Slides](https://docs.google.com/presentation/d/1ynlRcykoeSf7IAC4kRVcNKJS3vs4h_EO0UgyR3cwRHk)  
 [Trello](https://trello.com/b/asdJQZiT/finalprojecttrello)  
 [dbdiagram](https://dbdiagram.io/d/5d598266ced98361d6ddb13c)
